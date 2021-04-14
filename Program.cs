@@ -15,7 +15,7 @@ namespace ConsoleAppFEEZBUZZ
 
 
 
-            int[] a = {2, 5, 112, 2342, 8, 1, 4, 6};
+            int[] a = {2, 5, 3, 7, 8, 1, 4, 6};
 
             foreach (var i in a)
             {
